@@ -1,4 +1,4 @@
-# NumPy Pre-processing Operations and Wine Dataset Analysis
+# NumPy Pre-processing Operations
 
 This repository contains an assignment on data pre-processing using the **NumPy** Python library. It covers a wide range of operations such as creating and manipulating arrays, slicing, joining, sorting, and generating random arrays. The second part of the assignment involves analyzing the **wine-quality dataset** from the UCI Machine Learning Repository.
 
