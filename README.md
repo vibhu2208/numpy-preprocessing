@@ -5,9 +5,6 @@ This repository contains an assignment on data pre-processing using the **NumPy*
 ## Table of Contents
 - [Introduction](#introduction)
 - [Technologies Used](#technologies-used)
-- [Assignment Details](#assignment-details)
-  - [Part A: NumPy Pre-processing Operations](#part-a-numpy-pre-processing-operations)
-  - [Part B: Wine Dataset Analysis](#part-b-wine-dataset-analysis)
 - [Setup Instructions](#setup-instructions)
 - [How to Run](#how-to-run)
 - [Results](#results)
